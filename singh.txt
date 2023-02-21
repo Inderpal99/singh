@@ -1,0 +1,12 @@
+linux commands
+software devolopment for cycle
+data base SQL
+git hub
+API
+cloud computing
+version control
+testing
+cicd
+jira
+web development
+oops concept
