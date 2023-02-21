@@ -10,3 +10,6 @@ cicd
 jira
 web development
 oops concept
+hdfs
+hive 
+sqoop (import)
