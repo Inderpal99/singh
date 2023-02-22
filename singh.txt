@@ -13,3 +13,4 @@ oops concept
 hdfs
 hive 
 sqoop (import)
+Revise hdfs, hive, sqoop
